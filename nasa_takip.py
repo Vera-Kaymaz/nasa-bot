@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from telegram import Bot
 
 # TELEGRAM BİLGİLERİN
-TELEGRAM_TOKEN = "8902380763:AAHx2nJHKkmfYl5XB-nwGHu8JHD2_WV4rWE"
-CHAT_ID = "6457159577"
+TELEGRAM_TOKEN = "...."
+CHAT_ID = "...."
 
 # TAKİP EDİLECEK NASA LİNKİ
 URL = "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101"
