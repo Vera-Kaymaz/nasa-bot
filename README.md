@@ -1,5 +1,3 @@
-# nasa-bot
-NASA Open Science 101 course follow bot system
 # 🚀 NASA Open Science 101 - Registration Tracker & Bot
 
 Bu proje, **NASA Open Science 101** kursunun kayıt ("Apply / Register") butonunun aktifleştiğini anlık olarak takip etmek ve bildirim almak amacıyla başlatılmış bir otomasyon çalışmasıdır.
